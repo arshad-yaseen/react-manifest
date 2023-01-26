@@ -26,7 +26,7 @@ Import the package in your React component
   import reactManifest from "react-manifest"
 
 ```
-
+or
 
 ```javascript
   const reactManifest = require("react-manifest")
