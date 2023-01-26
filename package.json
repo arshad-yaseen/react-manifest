@@ -1,6 +1,6 @@
 {
   "name": "react-manifest",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This npm library allows for dynamic manipulation of the manifest.json file in a Reactjs application, such as changing icons, names, and more. easily you can change manifest for different react-routes. This library makes it easy to update the manifest file without having to manually edit the code. It can be easily integrated into any React project.",
   "main": "index.js",
   "scripts": {
@@ -18,7 +18,21 @@
     "react-manifest",
     "manifest-react",
     "dynamically-change-manifest",
-    "manifest.json", "dynamic", "change", "React", "icon", "name", "npm library", "development", "environment", "update", "properties", "application", "simple", "easy", "integrate"
+    "manifest.json",
+    "dynamic",
+    "change",
+    "React",
+    "icon",
+    "name",
+    "npm library",
+    "development",
+    "environment",
+    "update",
+    "properties",
+    "application",
+    "simple",
+    "easy",
+    "integrate"
   ],
   "author": "Arshad Yaseen",
   "license": "ISC",
