@@ -1,4 +1,5 @@
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/arshad-yaseen/react-manifest/blob/main/LICENCE) 
+ 
  React-Manifest is a simple library that allows you to easily update your manifest.json file in your React application. It allows you to specify the details of your application such as the name, icons, and related applications.
 
 
