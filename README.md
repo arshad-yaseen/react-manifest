@@ -112,7 +112,7 @@ const MyComponent = () => {
         }
       ],
       
-      And More...
+      // And More...
 
     };
   
